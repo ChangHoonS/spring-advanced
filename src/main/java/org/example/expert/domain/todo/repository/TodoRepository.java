@@ -41,3 +41,5 @@ public interface TodoRepository extends JpaRepository<Todo, Long> {
 // 재사용성과 유지보수 측면에서 매우 유리 하도고 하지만 강의 내용에 의하면 유연성이 부족하며
 // left outer join 만을 지원한다고 한다.
 // 아직 정확히 모르겠지만 연관 관계가 깊을 경우 attributePaths에 모든 경로를 명시해야 한다고 함
+
+// 커밋 이상으로 임시
